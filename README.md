@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkabhuiyan" alt="nkabhuiyan" /></a> </p>
 
-- 👨‍🎓 I'm a Full Stack web developer
-
 - 🔭 I’m currently working on [chattrinibasctg](chattrinibasctg.com)
 
 - 🌱 I’m currently learning **Python Turtle Graphics**
