@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python Turtle Graphics**
 
 - 🤝 I’m looking for help with **college_management**
-- 
+  
 - 👯 I’m looking to collaborate with other full stack web developers
 
 - 💬 Ask me about **laravel, wordpress**
